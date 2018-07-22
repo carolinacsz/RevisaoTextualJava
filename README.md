@@ -1,2 +1,2 @@
-# RevisãoTextualJava
-Sistema web para revisão textual feito para a disciplica de programação para web do IFG 2018
+# RevisaoTextualJavaWeb
+Projeto desenvolvido para discliplina de programacao para internet do curso de sistemas de informacao da universidade federal de Goias.
