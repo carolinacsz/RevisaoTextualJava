@@ -1,0 +1,61 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@page import="br.edu.ifg.proi.modelo.Cliente"%> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Serviços</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<%@ include file="cabecalho.jsp"%>
+
+
+
+<!-- SERVICOS -->
+<div id="wrapper3">
+	<div id="portfolio" class="container">
+		<div class="title">
+			<h2>Serviços</h2> <br /> <br />
+			<span class="byline">Conheça nossos serviços e faça seu orçamento</span> </div> <br />
+		<div class="column1">
+			<div class="box"> 
+				<h3>Adequação às normas da ABNT</h3>
+				<p>Revisa-se o texto de forma a garantir que atenda às normas da
+Associação Brasileira de Normas Técnicas (ABNT).</p>
+				<a href="orcamento.jsp" class="button button-small">Fazer orçamento</a> </div>
+		</div>
+		<div class="column2">
+			<div class="box"> 
+				<h3>Revisão gramatical</h3>
+				<p>Consiste na leitura do texto e sua adequação aos critérios gramaticais, ortográficos
+e sintáticos da norma culta da língua portuguesa.</p>
+				<a href="orcamento.jsp" class="button button-small">Fazer orçamento</a> </div>
+		</div>
+		<div class="column3">
+			<div class="box"> 
+				<h3>Edição/formatação</h3>
+				<p>Prepara, de acordo com as normas editoriais, um texto ou uma seleção de textos,
+com ações de padronização de fonte, inserção de índice, formatação etc.</p>
+				<a href="orcamento.jsp" class="button button-small">Fazer orçamento</a> </div>
+		</div>
+		<div class="column4">
+			<div class="box"> 
+				<h3>Revisão Textual-gramatical</h3>
+				<p>Inclui tanto a revisão gramatical quanto a análise crítica do texto, apontando
+aspectos de construção textual que levem a um texto mais claro.</p>
+				<a href="orcamento.jsp" class="button button-small">Fazer orçamento</a> </div>
+		</div>
+	</div>
+</div>
+
+<!-- SERVICOS -->
+
+
+<!-- RODAPÉ -->
+
+		<div id="copyright">
+			<p>&copy; Copyright 2018 - Todos os direitos reservados | Desenvolvido por Alunos do IFG.</p>
+		</div>
+		
+		<!-- RODAPÉ -->
+	</body>
+</html>

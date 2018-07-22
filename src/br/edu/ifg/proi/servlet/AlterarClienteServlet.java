@@ -63,7 +63,7 @@ public class AlterarClienteServlet extends HttpServlet {
 
 		} else {
 			System.out.println("Senhas não conferem");
-			request.getRequestDispatcher("inserir_cliente.html").forward(request, response);
+			request.getRequestDispatcher("PaginaCadastro.html").forward(request, response);
 		}
 
 	}
